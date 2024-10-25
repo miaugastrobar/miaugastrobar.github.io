@@ -64,8 +64,8 @@ export default async function(eleventyConfig) {
 		metadata: {
 			language: "pt",
 			title: "Miau Gastrobar",
-			subtitle: "ouvindo dreampop e escrevendo bobagem.",
-			base: "https://example.com/",
+			subtitle: "ouvindo dreampop e escrevendo.",
+			base: "https://miaugastrobar.github.io/blog/",
 			author: {
 				name: "Gabriela"
 			}
